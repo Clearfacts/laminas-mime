@@ -47,3 +47,7 @@ Browse the documentation online at https://docs.laminas.dev/laminas-mime/
 - [Issues](https://github.com/laminas/laminas-mime/issues/)
 - [Chat](https://laminas.dev/chat/)
 - [Forum](https://discourse.laminas.dev/)
+
+## Technical debt links
+
+[Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
