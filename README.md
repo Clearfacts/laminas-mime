@@ -51,3 +51,4 @@ Browse the documentation online at https://docs.laminas.dev/laminas-mime/
 ## Technical debt links
 
 [Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
+- [x] non-production code only
